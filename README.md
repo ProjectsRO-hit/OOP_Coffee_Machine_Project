@@ -23,4 +23,4 @@ This Coffee Machine simulation uses Python's OOP concepts to model a real-life c
 4. Run the simulation with:
 
 ```bash
-python coffee_machine.py
+python main.py
